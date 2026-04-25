@@ -1,0 +1,88 @@
+{
+	"disable_ai": true,
+	"telemetry": {
+		"metrics": false,
+		"diagnostics": false
+	},
+	"diff_view_style": "unified",
+	"theme": {
+		"mode": "dark",
+		"light": "One Light",
+		"dark": "One Dark"
+	},
+	"show_wrap_guides": false,
+	"buffer_line_height": {
+		"custom": 1.8
+	},
+	"soft_wrap": "editor_width",
+	"toolbar": {
+		"breadcrumbs": false,
+		"quick_actions": false
+	},
+	"tab_size": 4,
+	"hard_tabs": true,
+	"session": {
+		"trust_all_worktrees": true
+	},
+	"drag_and_drop_selection": {
+		"enabled": false
+	},
+	"title_bar": {
+		"button_layout": "platform_default",
+		"show_menus": false,
+		"show_sign_in": false,
+		"show_user_menu": false,
+		"show_project_items": true,
+		"show_user_picture": false,
+		"show_onboarding_banner": false
+	},
+	"tabs": {
+		"file_icons": true,
+		"git_status": true,
+		"show_diagnostics": "all"
+	},
+	"restore_on_startup": "launchpad",
+	"ui_font_weight": 500,
+	"terminal": {
+		"dock": "bottom",
+		"toolbar": {
+			"breadcrumbs": false
+		},
+		"blinking": "off",
+		"alternate_scroll": "off",
+		"cursor_shape": "underline"
+	},
+	"git_panel": {
+		"dock": "right",
+		"default_width": 350
+	},
+	"outline_panel": {
+		"dock": "right",
+		"default_width": 350,
+		"auto_fold_dirs": false
+	},
+	"project_panel": {
+		"dock": "left",
+		"hide_root": false,
+		"default_width": 350,
+		"folder_icons": true,
+		"sticky_scroll": false,
+		"hide_gitignore": true,
+		"bold_folder_labels": false,
+		"auto_reveal_entries": false,
+		"entry_spacing": "comfortable"
+	},
+	"collaboration_panel": {
+		"dock": "left",
+		"button": false
+	},
+	"format_on_save": "off",
+	"scrollbar": {
+		"show": "never"
+	},
+	"ui_font_size": 20,
+	"cursor_blink": false,
+	"current_line_highlight": "none",
+	"cursor_shape": "underline",
+	"buffer_font_family": "Brass Mono"
+}
